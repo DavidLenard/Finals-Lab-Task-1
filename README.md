@@ -1,4 +1,4 @@
-# [Midterm Lab Task 1] - Data Cleaning and Preparation using EXCEL
+# Midterm Lab Task 1 - Data Cleaning and Preparation using EXCEL
 This project focuses on data cleaning and preparation techniques using Excel. The task involves working with raw data to ensure it is accurate, complete, and formatted for analysis.
 ## Step 1 - Data Cleaning Process
 - Load the raw file
